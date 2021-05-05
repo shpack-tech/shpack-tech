@@ -1,22 +1,22 @@
-# Hello, my name is Leonid. 
-## I'm 20 y.o. web-developer from Russia (ru-RU)
-I am currently working on some web-projects. <br>
-My specialities are:
+# Привет, меня зовут Леонид
+## Я занимаюсь веб-разработкой
+Создаю лендинги и многостраничные сайты. <br>
+Специализируюсь на:
 - JavaScript
 - HTML/CSS
 - PHP
-- Wordpress % woocommerce
-- self-constructed CMS
+- Wordpress & woocommerce
+- Самописные CMS
 
 <br>
 I practice such things as AJAX, JS web calculators, CSS animations etc.
 
-## here is some of my portfolio projects:
-[BobbyHero rethinking (landing page)](https://shpack-tech.github.io/newbobby/) <br>
-[Talking robot](https://shpack-tech.github.io/speaker/) <br>
-[KazPetroCon (main page)](https://shpack-tech.github.io/demoverdion/) <br>
-[Calendar date-picker style calculator](https://youtu.be/TqXeueEPfqw) <br>
-[Cargo transportation calculator](https://youtu.be/jBh25WwSgQk)
+## Вот некоторые мои работы:
+[BobbyHero переосмысление (лендинг)](https://shpack-tech.github.io/newbobby/) <br>
+[Говорящий робот](https://shpack-tech.github.io/speaker/) <br>
+[KazPetroCon (главная страница)](https://shpack-tech.github.io/demoverdion/) <br>
+[Калькулятор для кошачьего отеля с выбором даты](https://youtu.be/TqXeueEPfqw) <br>
+[Калькулятор грузоперевозок](https://youtu.be/jBh25WwSgQk)
 
 
 
