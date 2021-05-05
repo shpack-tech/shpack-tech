@@ -38,6 +38,13 @@
 [Калькулятор грузоперевозок](https://youtu.be/jBh25WwSgQk)
 
 
+## Связь со мной:
+
+### telegram: @leonid_dev
+### email: vartopick@gmail.com
+### [VK](https://vk.com/id208033247)
+### [FreelanceHunt](https://freelancehunt.com/freelancer/neivan23)
+### [Kwork](https://kwork.ru/user/leonid_____)
 
 <!---
 shpack-tech/shpack-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
