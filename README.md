@@ -45,7 +45,7 @@
 ### email: vartopick@gmail.com
 ### [VK](https://vk.com/id208033247)
 ### [FreelanceHunt](https://freelancehunt.com/freelancer/neivan23)
-### [Kwork](https://kwork.ru/user/leonid_____)
+### [Kwork (не активный)](https://kwork.ru/user/leonid_____)
 
 <!---
 shpack-tech/shpack-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
