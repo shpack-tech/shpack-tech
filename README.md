@@ -37,6 +37,7 @@
 [KazPetroCon (главная страница)](https://shpack-tech.github.io/demoverdion/) <br>
 [Калькулятор для кошачьего отеля с выбором даты](https://youtu.be/TqXeueEPfqw) <br>
 [Калькулятор грузоперевозок](https://youtu.be/jBh25WwSgQk)
+[Конфигуратор гаражных ворот](https://shpack-tech.github.io/gateCalculator/) | [входных дверей](https://shpack-tech.github.io/dveri/) ([ворота на сайте](https://www.vorota-surgut.ru/promo) | [двери на сайте](https://www.vorota-surgut.ru/aktsiya-vkhodnaya-dver-thermo65))
 
 
 ## Связь со мной:
