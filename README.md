@@ -44,7 +44,7 @@
 
 ### telegram: @leonid_dev
 ### email: vartopick@gmail.com
-### [VK](https://vk.com/id208033247)
+<!--- ### [VK](https://vk.com/id208033247) --->
 ### [FreelanceHunt](https://freelancehunt.com/freelancer/neivan23)
 ### [Kwork (не активный)](https://kwork.ru/user/leonid_____)
 
