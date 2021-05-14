@@ -28,9 +28,9 @@
 ✔ Базовая SEO-оптимизация<br>
 ✔ Интерактивные карты<br>
 ✔ Интеграция онлайн-карт<br>
-✔ Подключение платежных систем<br>
-✔ Работа с базами данных MySQL <br>
-![coder](procoder.gif) <br>
+✔ Подключение платежных систем <br>
+✔ Работа с базами данных MySQL <br> <br>
+![coder](procoder.gif) 
 ## Вот некоторые мои работы: 
 [BobbyHero переосмысление (лендинг)](https://shpack-tech.github.io/newbobby/)  <br>
 [Говорящий робот](https://shpack-tech.github.io/speaker/) <br>
