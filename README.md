@@ -42,7 +42,6 @@
 ## Вот некоторые мои работы: 
 >[BobbyHero переосмысление (лендинг)](https://shpack-tech.github.io/newbobby/)  <br>
 >[Говорящий робот](https://shpack-tech.github.io/speaker/) <br>
->[KazPetroCon (главная страница)](https://shpack-tech.github.io/demoverdion/) <br>
 >[Калькулятор для кошачьего отеля с выбором даты](https://youtu.be/TqXeueEPfqw) <br>
 >[Калькулятор грузоперевозок](https://youtu.be/jBh25WwSgQk) <br>
 >[Конфигуратор гаражных ворот](https://shpack-tech.github.io/gateCalculator/) | [входных дверей](https://shpack-tech.github.io/dveri/) ([ворота на сайте](https://www.vorota-surgut.ru/promo) | [двери на сайте](https://www.vorota-surgut.ru/aktsiya-vkhodnaya-dver-thermo65)) <br>
