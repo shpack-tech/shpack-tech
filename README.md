@@ -37,7 +37,7 @@
 ✓ Интеграция онлайн-карт <br>
 ✓ Подключение платежных систем <br>
 ✓ Работа с базами данных MySQL & MongoDB <br>
-✓ Бэкенд функционал на PHP, Expres <br> <br>
+✓ Бэкенд функционал на PHP, Express <br> <br>
 ![coder](procoder.gif) 
 ## Вот некоторые мои работы: 
 >[BobbyHero переосмысление (лендинг)](https://shpack-tech.github.io/newbobby/)  <br>
